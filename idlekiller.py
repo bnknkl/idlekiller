@@ -12,7 +12,8 @@ exit_messages = [
     'Okay, bye!', 
     'Thanks for doing your part to make queues longer <3', 
     'You no longer know La Hee.',
-    'Yeah, well, whatever, quit if you want, quitter.']
+    'Yeah, well, whatever, quit if you want, quitter.'
+    ]
 
 def press_space():
     jump_counter = 0
