@@ -2,8 +2,17 @@ import pyautogui
 import random
 import time
 
-interrupt_messages = ["Remember, hit Control+C to exit when you're done.", "Done jumping around your FC estate? Control+C.", "Yeah, well, whatever, quit if you want, quitter."]
-exit_messages = ['Okay, bye!', 'Thanks for doing your part to make queues longer <3', 'You no longer know La Hee.']
+interrupt_messages = [
+    'Remember, hit Control+C to exit when you're done.',
+    'Done jumping around your FC estate? Control+C.',
+    'Maybe go outside for a bit. Hit Control+C to quit this charade.',
+    'If such a lengthy idle session was not your intention, hit Control+C.'
+    ]
+exit_messages = [
+    'Okay, bye!', 
+    'Thanks for doing your part to make queues longer <3', 
+    'You no longer know La Hee.',
+    'Yeah, well, whatever, quit if you want, quitter.']
 
 def press_space():
     jump_counter = 0
