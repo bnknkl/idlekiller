@@ -1,5 +1,5 @@
 # killyouridles
-Press space randomly. That's it. Don't expect much.
+Press space randomly. Use at your own risk.
 
 
 ## How 2 install
