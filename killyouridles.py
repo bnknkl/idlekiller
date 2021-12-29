@@ -3,7 +3,7 @@ import random
 import time
 
 interrupt_messages = [
-    'Remember, hit Control+C to exit when you're done.',
+    "Remember, hit Control+C to exit when you're done.",
     'Done jumping around your FC estate? Control+C.',
     'Maybe go outside for a bit. Hit Control+C to quit this charade.',
     'If such a lengthy idle session was not your intention, hit Control+C.'
